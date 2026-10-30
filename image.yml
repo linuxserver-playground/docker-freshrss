@@ -12,6 +12,9 @@ upstream:
   notes:
     type: github_release
     repo: FreshRSS/FreshRSS
+  sponsor:
+  - name: FreshRSS (Liberapay)
+    url: https://liberapay.com/FreshRSS
 
 release:
   branch: master
